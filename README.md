@@ -1,4 +1,4 @@
-# MyDatabase
+# StarGalaxyClassification
 This project is mainly divided into 2 areas:
 1. Differentiating stars and galaxies based on their images, using Convolutional Neural Networks.
 2. Classifying stars separately into their subgroups using Logistic Regression, and doing the same for galaxies.
