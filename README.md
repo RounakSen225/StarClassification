@@ -1,4 +1,4 @@
-# StarClassification
+# Star Classification
 This project is mainly to classify stars separately into their subgroups using Logistic Regression. Stas can be classified using their Luminosity and Temperature data, as is seen from the Hertzsprung–Russell diagram: https://courses.lumenlearning.com/astronomy/chapter/the-h-r-diagram/
 
 SEXtractor : The images from SDSS have a collection of galxies and stars in it, but we need a separate cutout image for each object (removing the dark background which is noise and doesnot contribute to input). SEXtractor does this job of filtering out images.
